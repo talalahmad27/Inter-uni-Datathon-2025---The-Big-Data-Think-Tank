@@ -47,3 +47,11 @@ https://www.booking.com/accommodation/city/au/mount-hotham.en-gb.html
 https://www.budgetyourtrip.com/hotels/australia/falls-creek-p28146
 https://www.mtbuller.com.au/winter/plan-your-journey/accommodation-offers
 https://www.sel.cam.ac.uk/
+https://thesnowysocial.com/2025/05/30/parking-at-perisher-what-you-need-to-know-before-driving-up-the-mountain/?utm_source=chatgpt.com
+https://www.thredbo.com.au/about-thredbo/getting-here/road-conditions-and-snow-chains/?utm_source=chatgpt.com
+https://www.nationalparks.nsw.gov.au/things-to-do/driving-routes/kosciuszko-alpine-way-drive/visitor-info?utm_source=chatgpt.com
+https://selwynsnow.com.au/lift-pass/getting-here/?utm_source=chatgpt.com
+https://www.viamichelin.com/maps/traffic/australia/victoria/northeast_victoria/mount_buller-3723?utm_source=chatgpt.com
+https://www.viamichelin.com/maps/traffic/australia/victoria/northeast_victoria/mount_buller-3723?utm_source=chatgpt.com
+https://www.fallscreek.com.au/southern-access-road-to-falls-creek-re-opened/?utm_source=chatgpt.com
+https://usc.com.au/mountain-information/?utm_source=chatgpt.com
