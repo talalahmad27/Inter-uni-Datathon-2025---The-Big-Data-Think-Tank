@@ -5,7 +5,7 @@ This repository contains our solution for the Inter-uni Datathon 2025 challenge.
 ## 📂 Repository Structure
 
 - Final Source code.ipynb: The main notebook with complete analysis and the LSTM model.
-– Contains all datasets used for the project.
+- Contains all datasets used for the project.
 
 ⚠️ Please ensure that all files are in the same directory as the notebook before execution.
 
